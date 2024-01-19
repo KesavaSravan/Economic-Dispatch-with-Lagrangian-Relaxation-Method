@@ -1,4 +1,4 @@
-# Economic-Dispatch-with-Lagrangian-Relaxation-Method
+# Economic Dispatch with Lagrangian Relaxation Method
 
 Economic Dispatch (ED) is a fundamental problem in power system operation aimed at efficiently allocating generation resources to meet the electrical demand while minimizing operational costs. Lagrangian Relaxation (LR) is a powerful mathematical optimization technique used to solve large-scale ED problems by decomposing them into smaller, more manageable subproblems. This report provides an overview of the application of Lagrangian Relaxation in Economic Dispatch Optimization.
 
